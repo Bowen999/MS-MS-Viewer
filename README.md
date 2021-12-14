@@ -1,2 +1,6 @@
 # MS_Viewer
-Final project of BINF524 
+Input the scan number and peptide sequence
+
+One fig will be returned
+
+Including all the peaks and matched b ions and y ions in differenct color
