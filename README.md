@@ -4,7 +4,6 @@ Generate a mass spectrum figure based on the metabolomics raw data in the XML fi
 
 XML file was from experiment. The values of peptide sequence are theoretical calculation values.
 
-**********************************************************************************************
 
 Provide xml file name, scan number and peptide sequence.
 
