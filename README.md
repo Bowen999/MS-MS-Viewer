@@ -3,7 +3,7 @@ MS-MS Viewer is a program written by python that is used to extract and analyze 
 ## How to use
 2 versions program are provided.
 ### Command line based version.
-[Command line based version)(https://github.com/Bowen999/MS-MS-Viewer/blob/main/Viewer.py) need user input XML name file, scan number, peptide sequence in order.  
+[Command line based version](https://github.com/Bowen999/MS-MS-Viewer/blob/main/Viewer.py) need user input XML name file, scan number, peptide sequence in order.  
 e.g. 17mix_test2.mzxml.gz + 1301 + TYDSYLGDDYVR
 
 ### GUI version
